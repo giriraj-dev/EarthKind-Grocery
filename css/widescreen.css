@@ -1,0 +1,92 @@
+.contain {
+  display: flex;
+}
+
+.bg-1{
+height:80vh;
+}
+
+.menu {
+  position: fixed;
+  /*height: 100vh;
+    width: 100%;*/
+  left: 100%;
+  /*top: 0;*/
+  text-align: center;
+  padding-top: 80px;
+}
+.menu-btn {
+  margin-left: 100px;
+  padding-left: 10px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  line-height: 30px;
+  margin: 0px 8px;
+  float: left;
+  padding: 6px;
+  border: none;
+  font-size: 15px;
+}
+
+.block-1 p {
+  margin-top: 15px;
+}
+.container-2 .inner-div-1 .block-1 {
+  /* padding-top: 40px;
+    padding-left: 40px; */
+  margin: 0;
+}
+
+.block-5 {
+  display: block;
+}
+
+.block-5 img {
+  width: 100%;
+  padding: 20px 20px;
+}
+.block-2 {
+  display: none;
+}
+
+.wide-box {
+  display: flex;
+}
+
+.block-3 {
+  padding: 20px 40px;
+  margin-top: -40px;
+}
+
+.block-4 {
+  padding: 20px 40px;
+  margin-top: -40px;
+}
+.pic-products {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-items .flex-1{
+  margin-left: 120px;
+}
+
+.list-items .flex-2{
+margin-right:120px;
+}
+
+.pic-1{
+  display: none;
+}
+
+.pic-1-0{
+  display: block;
+  margin-top: -100px;
+}

@@ -1,0 +1,56 @@
+.products {
+    justify-content: space-between;
+}
+
+.product {
+    max-width: calc(50% - 20px);
+}
+
+.input-icons{
+    display: none;
+}
+
+.input-icons-mob{
+    display: block;
+    padding-bottom: 10px;
+}
+
+.bg-1{
+    height: 50vh;
+    width: 100%;
+}
+
+.list-items {
+    display: none;
+    /* flex-direction: row;
+    align-items: center;  */
+  }
+
+  .flex{
+    margin: 0 4px;
+    width: 100%; /* Ensure full width on small screens */
+    text-align: center; 
+    font-size: xx-small;/* Center the text */
+  }
+
+  .li {
+    margin: 8px 2px;
+     /* Reduce margin to fit content better */
+  }
+
+  /* <section>
+  <div class="container-4">
+      <div class="lil-container-2">
+          <div class="big-box">
+              <div class="ad-1-0"><img src="img/bar-offer-2.webp" alt="bar"></div>
+              <div class="ad-1"><img src="img/bar-offer.webp" alt=""></div>
+              <div class="ad-2">
+                  <div class="a-1-0"><img src="img/meat-2.webp" alt="bar"></div>
+                  <div class="a-1"><img src="img/protein-meat.png" alt="meat"></div>
+                  <div class="a-2-0"><img src="img/dairy-2.png" alt="bar"></div>
+                  <div class="a-2"><img src="img/dairy.webp" alt="dairy"></div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section> */
